@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.AssemblyInfo.cs
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.exe
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.deps.json
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.runtimeconfig.json
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.dll
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.pdb
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.dll
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.pdb
+C:\Users\Asus\source\repos\DanielaAquino\DanielaAquino01\Ejercicio01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.genruntimeconfig.cache
